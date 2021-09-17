@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nickyperfect
 - 👀 I’m interested in ... fun and wonder
 - 🌱 I’m currently learning ... about the future
-- 💞️ I’m looking to collaborate on ... changing the worpd
+- 💞️ I’m looking to collaborate on ... changing the world
 - 📫 How to reach me ... just stick out your thumb, and don't forget your towel!
 
 <!---
