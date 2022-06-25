@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nickyperfect
 - 👀 I’m interested in ... fun and wonder
-- 🌱 I’m currently learning ... about data science and ontolgies 
-- 💞️ I’m looking to collaborate on ... changing the world
+- 🌱 I’m currently learning ... about mad science 
+- 💞️ I’m looking to collaborate on ... enhancing the humans through technology; and vice-versa!
 - 📫 How to reach me ... just stick out your thumb, and don't forget your towel!
 
 <!---
